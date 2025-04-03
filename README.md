@@ -85,7 +85,7 @@ pm2 start php --name "php-server" -- -S 0.0.0.0:8000 -t /home/your_name/tv-php/s
 参数说明：
 - `--name "php-server"`: 为进程指定名称
 - `-S 0.0.0.0:8000`: 监听所有网络接口的 8000 端口
-- `-t /home/btkurt/code/serv00-video`: 指定项目根目录路径
+- `-t /home/your_name/code/serv00-video`: 指定项目根目录路径
 
 ```
 
